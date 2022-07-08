@@ -1,0 +1,10 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mehdi-roozitalab/core_utils v0.9.1 h1:WLtd1DyxhhgAg5mvgdr++zGr52WpIFTqfWOOeWKvNNw=
+github.com/mehdi-roozitalab/core_utils v0.9.1/go.mod h1:sUF9ju7AchKUv0hfK4eR5ABjs/D5WYAWD01BxYHAqow=
+github.com/mehdi-roozitalab/template v0.9.0 h1:oyEA4Y9z4qnmmiBkuXxfi7mPS2OR5kFEq6UhFyqJovc=
+github.com/mehdi-roozitalab/template v0.9.0/go.mod h1:n/hq99m+4iL1j7D22BOKkZdUky1xgK9Clje8vJMR7Ug=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
